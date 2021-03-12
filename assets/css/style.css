@@ -109,7 +109,7 @@ aside {
   max-width: 150px;
 }
 
-/* consolodated these tags into one tag */
+/* consolodated these tags into one tag margin sets the space around the bottom, padding adds more space around the text, height sets the height of the box, font-family limits the font possibilities*/
 .main-sec {
   margin-bottom: 20px;
   padding: 50px;
@@ -119,7 +119,7 @@ aside {
   color: #ffffff;
 }
 
-/* consolodated these three into one line */
+/* consolodated these three into one tag, max-height reduces the maximum height of the image*/
 .main-sec img {
   max-height: 200px;
 }
