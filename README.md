@@ -6,4 +6,4 @@ This is the finalized Horiseon refactored website. I worked with two study group
 # Deployed Site
 heres the site
 
-[Deployed Site]("https://shrwnwilliams.github.io/horiseon-code-refactor/")
+[Deployed Site](https://shrwnwilliams.github.io/horiseon-code-refactor/)
